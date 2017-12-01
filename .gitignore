@@ -1,0 +1,5 @@
+.pypirc
+/.idea/*
+/__pycache__/*
+/dist/*
+/wall-timeout/__pycache__/*
